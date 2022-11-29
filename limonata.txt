@@ -2,6 +2,6 @@ limonata tarifi:
 
 1.limon
 2.su
-3.şeker
+3.bir küp şeker
 4.nane
 
